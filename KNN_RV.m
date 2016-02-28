@@ -75,13 +75,4 @@ ConfusionMatrix(g2);
 end
 %% 
  
-% function [ksmallestelements,index] = KNN(inv_moments_test,inv_moments_train,k)
-%     
-%     for l = 1:size(inv_moments_train,1)
-%         dist(l,:) = norm(inv_moments_test-inv_moments_train(l,:));
-%     end
-%     [min_dist,I] =  sort(dist);
-%     ksmallestelements = min_dist(1:k);
-%     index = I(1:k);  
-%     
-% end
+
