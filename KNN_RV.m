@@ -1,3 +1,5 @@
+%Author : Namratha Shivashankar 
+%Reference :http://www.mathworks.com/matlabcentral/fileexchange/52259-hu-s-invariant-moments 
 
 function KNN_RV()
 %Initializing Data
